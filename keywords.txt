@@ -1,0 +1,20 @@
+// Library made by Richard Mansell specifically for BPS.space
+IVN_IMU				KEYWORD1
+
+begin				KEYWORD2
+calculateCRC8		KEYWORD2
+calculateCRC16		KEYWORD2
+checkVNSerial		KEYWORD2
+clearGroup			KEYWORD2
+readPoll			KEYWORD2
+readSerialReg		KEYWORD2
+startBinOutput		KEYWORD2
+startPoll			KEYWORD2
+writeAsyncPause		KEYWORD2
+writeSerialPrompt	KEYWORD2
+writeSerialReg		KEYWORD2
+writeSave			KEYWORD2
+writeFactoryReset	KEYWORD2
+writeFirmUpdate		KEYWORD2
+writeReset			KEYWORD2
+writeUserTag		KEYWORD2
